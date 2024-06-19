@@ -14,5 +14,6 @@ iXXXX - ask for input and store it at line XXXX
 lXXXX - open file which's filename is stored at line XXXX
 jXXXX - jump to line XXXX
 cXXXXYYYY - compare content of line XXXX with content of line YYYY. If output is true, then jump 1, if false than jump 2.
+CAUTION: EACH XXXX, YYYY OR ZZZZ MUST BE 4 NUMBERS SO LINE 1 IS 0001
 
 Commands to create and store files coming soon.
